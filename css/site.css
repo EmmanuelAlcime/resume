@@ -822,7 +822,10 @@ section:nth-child(odd) .animate.scroll,
 
     .home{
         padding: 0 4%;
+        overflow: hidden;
     }
+
+   
 
     .footer{
         padding: 2rem 4%;
